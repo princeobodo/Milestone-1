@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>References and Resources</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>References and Resources</h1>
+    <nav>
+      <ul class="menu">
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/home.html">Home</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/early%20years.html">Early Years</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/inovations.html">Innovations</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/succsess.html">Success</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/refrences.html">References</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <ul>
+      <li><a href="https://about.nike.com/">Official Nike Website</a></li>
+      <li><a href="https://www.britannica.com/topic/Nike-Inc">Encyclopedia Britannica: Nike, Inc.</a></li>
+      <li><a href="https://www.businessinsider.com/the-history-of-nike-2016-8">Business Insider: The History of Nike</a></li>
+      <li><a href="https://www.w3schools.com/">W3Schools HTML & CSS</a></li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>This is a class project for <a href="https://ksuweb.github.io/IT3203/">IT3203</a>.</p>
+  </footer>
+</body>
+</html>

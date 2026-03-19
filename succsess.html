@@ -1,0 +1,80 @@
+/* ===== General Styles ===== */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #222;
+}
+
+header, footer {
+  background-color: #000;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+/* ===== Navigation ===== */
+.menu {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #111;
+}
+
+.menu li {
+  margin: 0 15px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  transition: background 0.3s;
+}
+
+.menu a:hover {
+  background-color: #e41e26; /* Nike Red */
+  border-radius: 5px;
+}
+
+/* ===== Main Content ===== */
+main {
+  padding: 20px;
+  display: grid;
+  gap: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* ===== Table ===== */
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #e41e26;
+  color: white;
+}
+
+/* ===== Footer ===== */
+footer a {
+  color: #e41e26;
+}
+
+/* ===== Selectors ===== */
+p { font-size: 1rem; }           /* element selector */
+.menu a:hover { color: #fff; }   /* pseudo-class selector */
+#highlight { font-weight: bold; } /* ID selector example */

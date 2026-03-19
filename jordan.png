@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nike’s Innovations and Expansion</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Nike’s Innovations</h1>
+    <nav>
+      <ul class="menu">
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/home.html">Home</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/early%20years.html">Early Years</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/inovations.html">Innovations</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/succsess.html">Success</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/refrences.html">References</a></li>
+        <li><a href="file:///C:/Users/kingo/OneDrive/Desktop/New%20folder%20(2)/about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Innovation as a Core Value</h2>
+    <p>Nike’s success has always been driven by innovation. From <strong>air cushioning technology</strong> to <strong>Flyknit</strong> materials, Nike continually evolves its design and production methods.</p>
+
+    <h3>Key Innovations</h3>
+    <ul>
+      <li><strong>1979:</strong> Introduction of Nike Air technology.</li>
+      <li><strong>1985:</strong> Launch of the Air Jordan line with Michael Jordan.</li>
+      <li><strong>2012:</strong> Debut of Flyknit, a lightweight, sustainable shoe design.</li>
+      <li><strong>Today:</strong> Use of recycled materials and digital customization tools like Nike By You.</li>
+    </ul>
+
+    <img src="jordan.png" alt="Air Jordan 1 Retro" width="250">
+  </main>
+
+  <footer>
+    <p>This is a class project for <a href="https://ksuweb.github.io/IT3203/">IT3203</a>.</p>
+  </footer>
+</body>
+</html>
